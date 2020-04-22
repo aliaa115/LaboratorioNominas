@@ -51,17 +51,17 @@ namespace LaboratorioNominas
 
         private void puestosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //mant(2);
+            mant(2);
         }
 
         private void departamentosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //mant(5);
+            mant(5);
         }
 
         private void conceptosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //mant(4);
+            mant(4);
         }
     }
 }
