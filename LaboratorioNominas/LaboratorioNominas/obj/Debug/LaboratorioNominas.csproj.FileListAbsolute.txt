@@ -1,0 +1,107 @@
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\LaboratorioNominas.exe.config
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\LaboratorioNominas.exe
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\LaboratorioNominas.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDeDiseno.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaVista.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDeLogica.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\ConsultasInteligentes.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDatos.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaModelo.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.Shared.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportSource.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\FlashControlV71.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDeDatos.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaLogica_Consultas.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaControlador.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\ShockwaveFlashObjects.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\stdole.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDatos_Consultas.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDeDiseno.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaVista.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaVista.dll.config
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDeLogica.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\ConsultasInteligentes.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaModelo.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDeDatos.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaLogica_Consultas.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaControlador.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDatos_Consultas.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\obj\Debug\LaboratorioNominas.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\obj\Debug\LaboratorioNominas.Mantenimientos.Forms.Mantenimiento.resources
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\obj\Debug\LaboratorioNominas.MDI_Nomina.resources
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\obj\Debug\LaboratorioNominas.Properties.Resources.resources
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\obj\Debug\LaboratorioNominas.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\obj\Debug\LaboratorioNominas.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\obj\Debug\LaboratorioNominas.csproj.CopyComplete
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\obj\Debug\LaboratorioNominas.exe
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\obj\Debug\LaboratorioNominas.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDiseno.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaLogica.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDiseno.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\Git Hub\LaboratorioNominas\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaLogica.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\obj\Debug\LaboratorioNominas.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\obj\Debug\LaboratorioNominas.exe
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\obj\Debug\LaboratorioNominas.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\obj\Debug\LaboratorioNominas.MDI_Nomina.resources
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\obj\Debug\LaboratorioNominas.Properties.Resources.resources
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\obj\Debug\LaboratorioNominas.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\obj\Debug\LaboratorioNominas.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\LaboratorioNominas.exe.config
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\LaboratorioNominas.exe
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\LaboratorioNominas.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDiseno.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDeLogica.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\ConsultasInteligentes.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDatos.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaLogica.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaModelo.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.Shared.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportSource.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\FlashControlV71.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDeDatos.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaLogica_Consultas.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaControlador.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\ShockwaveFlashObjects.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\stdole.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDatos_Consultas.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDeDiseno.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDiseno.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaVista.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaVista.dll.config
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDeLogica.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\ConsultasInteligentes.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaLogica.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaModelo.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDeDatos.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaLogica_Consultas.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaControlador.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\bin\Debug\CapaDatos_Consultas.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Laboratorio\Laboratorio 2\LaboratorioNominas\LaboratorioNominas\obj\Debug\LaboratorioNominas.csproj.CopyComplete
