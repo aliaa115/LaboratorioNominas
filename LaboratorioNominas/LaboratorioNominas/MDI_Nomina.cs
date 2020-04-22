@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-//using LaboratorioNominas.Mantenimientos.Forms;
+using LaboratorioNominas.Mantenimientos.Forms;
 using CapaDiseno;
 
 namespace LaboratorioNominas
@@ -19,7 +19,7 @@ namespace LaboratorioNominas
         {
             InitializeComponent();
         }
-        /*
+        
         private void mant(int tabla)
         {
             Mantenimiento mantenimiento = new Mantenimiento(usuario, tabla);
@@ -28,7 +28,7 @@ namespace LaboratorioNominas
             mantenimiento.TopMost = true;
             panel1.Controls.Add(mantenimiento);
         }
-        */
+        
         private void seguridadToolStripMenuItem_Click(object sender, EventArgs e)
         {
             MDI_Seguridad seguridad = new MDI_Seguridad("");
@@ -46,7 +46,7 @@ namespace LaboratorioNominas
 
         private void empleadosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //mant(1);
+            mant(1);
         }
 
         private void puestosToolStripMenuItem_Click(object sender, EventArgs e)
