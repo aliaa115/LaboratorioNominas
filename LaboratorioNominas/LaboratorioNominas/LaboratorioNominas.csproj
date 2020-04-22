@@ -57,6 +57,11 @@
   <ItemGroup>
     <Compile Include="Conexion\Conexion.cs" />
     <Compile Include="Conexion\transaccion.cs" />
+    <Compile Include="Mantenimientos\Forms\Mantenimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Forms\Mantenimiento.Designer.cs" />
+    <Compile Include="Mantenimientos\Procesos\Cls_Mantenimientos.cs" />
     <Compile Include="MDI_Nomina.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -65,6 +70,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Mantenimientos\Forms\Mantenimiento.resx" />
     <EmbeddedResource Include="MDI_Nomina.resx">
       <DependentUpon>MDI_Nomina.cs</DependentUpon>
     </EmbeddedResource>
